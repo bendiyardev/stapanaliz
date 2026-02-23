@@ -64,7 +64,7 @@ export default function Home() {
             <div>
               <h2 className="text-3xl font-bold mb-4">Mevcut Durum Analizi</h2>
               <p className="text-muted-foreground mb-6">
-                Wingamb Durumu: 2025 çıkışlı site, aylık ~80K ziyaretçi. SEO zayıf: "Deneme bonusu" sıralaması 40+ dışında. 
+                Wingamb Durumu: 2025 çıkışlı site, aylık ~80K ziyaretçi. SEO zayıf: &quot;Deneme bonusu&quot; sıralaması 40+ dışında. 
                 Üye kazanımı: Günlük 400-700. Agresif rekabet eksikliği nedeniyle geride, ama paket entegrasyonuyla hızlı sıçrama mümkün.
               </p>
               
@@ -87,7 +87,7 @@ export default function Home() {
                 <CardContent className="space-y-4">
                   <p className="text-muted-foreground">
                     Aylık 13M+ bahis araması. Rakipler %70 black-hat: Parasite SEO, agresif anchor text, link farms. 
-                    2026'da E-E-A-T dengesi şart, ama agresif velocity ile hızlı kazanım mümkün.
+                    2026&apos;da E-E-A-T dengesi şart, ama agresif velocity ile hızlı kazanım mümkün.
                   </p>
                   <div className="grid md:grid-cols-3 gap-4 mt-4">
                     <div className="p-4 border rounded-lg">
